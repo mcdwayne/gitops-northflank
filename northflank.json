@@ -201,6 +201,7 @@
   "project": {
     "spec": {
       "name": "Civo Workshop",
+      "region": "us-central",
       "description": ""
     }
   },
